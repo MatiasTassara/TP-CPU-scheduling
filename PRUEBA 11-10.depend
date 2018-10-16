@@ -1,0 +1,1145 @@
+# depslib dependency file v1.0
+1507906982 source:f:\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1507848334 f:\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.h
+
+1507906512 source:f:\trabajo final - librerias 10-10-17\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+
+1507850920 source:d:\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1507848334 d:\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.h
+
+1507851098 source:d:\trabajo final - librerias 10-10-17\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+
+1507906982 source:e:\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1507848334 e:\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.h
+
+1507906512 source:e:\trabajo final - librerias 10-10-17\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+
+1507906982 source:c:\users\silvana\documents\utn maru\segundo cuatrimestre\programacion\supermercado\segundo trabajo\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1507848334 c:\users\silvana\documents\utn maru\segundo cuatrimestre\programacion\supermercado\segundo trabajo\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.h
+
+1508791599 source:c:\users\silvana\documents\utn maru\segundo cuatrimestre\programacion\supermercado\segundo trabajo\trabajo final - librerias 10-10-17\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+
+1507906982 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\supermercado\segundo trabajo\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1507848334 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\supermercado\segundo trabajo\trabajo final - librerias 10-10-17\prueba 11-10\libmatriz.h
+
+1510104151 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510104151 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\libmatriz.h
+
+1510411866 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1510104181 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104181 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\abm.h
+
+1491400450 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510412467 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\gotoxy.h
+
+1510269734 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\menu.h
+
+1510411866 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271608 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\arbol.h
+
+1510175924 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510175863 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\listas.h
+
+1510363954 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1510363946 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\fila.h
+
+1510409949 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+
+1510177378 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\prueba 11-10\caja.h
+
+1510104181 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104151 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104181 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\abm.h
+
+1510411866 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271608 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\arbol.h
+
+1510437702 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+
+1510427819 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\listas.h
+
+1510436442 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\fila.h
+
+1510437721 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\caja.h
+
+1510436473 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104151 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510432773 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411866 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1510435462 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413459 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1510510392 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1510510330 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1510509951 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510432774 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1510510330 source:c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 c:\users\usuario\desktop\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1510794649 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1510530097 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1510526638 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518704 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1510794999 source:c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 c:\users\usuario\desktop\nueva carpeta\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1510837770 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1510837710 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1510526638 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518704 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1510837880 source:c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 c:\users\usuario\desktop\prueba 1511\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1510883950 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1510837712 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1510873125 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518706 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1510866688 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1510930124 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1510837712 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1510930593 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518706 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1510931222 source:d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 d:\version casi terminada\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1511032707 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1510837712 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1510930594 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518706 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1511034036 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 - 11 - 2017\version casi terminada17-11-17\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1510930594 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1510427820 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1491400450 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518706 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1511040028 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1511041000 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1511047900 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\sabado 18 parte 3\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510104182 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.h
+
+1510104182 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\abm.h
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\arbol.h
+
+1511047900 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.h
+
+1510436444 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.h
+
+1511040028 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\caja.h
+
+1510930594 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518706 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1511289248 source:c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\gotoxy.h
+
+1510413460 c:\users\usuario\documents\utn - programación\segundo cuatrimestre\programacion\trabajo final del segundo cuatrimestre\version pura\version final cagnoli - tassara - sa\algoritmos matias\11noviembre\menu cambiado\prueba 11-10\menu.h
+
+1510104182 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\abm.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abm.h"
+
+1510104152 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\libmatriz.h
+
+1510104182 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\abm.h
+
+1510411868 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+
+1510271610 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\arbol.h
+
+1511361594 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	<windows.h>
+
+1510427820 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\listas.h
+
+1510436444 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\fila.h
+
+1511040030 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\caja.h
+
+1510930594 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+
+1491400450 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1510104152 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\libmatriz.c
+	"libMatriz.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1510518706 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+
+1510411868 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"arbol.h"
+	"listas.h"
+	"fila.h"
+	"caja.h"
+
+1511289250 source:f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\menu.c
+	"gotoxy.h"
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libMatriz.h"
+	"abm.h"
+	"listas.h"
+	"fila.h"
+	"arbol.h"
+	"caja.h"
+	"menu.h"
+
+1491399896 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\gotoxy.h
+
+1510413460 f:\version final cagnoli - tassara - sa\cagnoli - tassara\22 noviembre\comision dos\cagnoli - tassara\menu.h
+
